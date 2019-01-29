@@ -1,4 +1,4 @@
-# Clients_and_Users
+# Clients and Users
 
 It consists of a Web API for a customer CRUD system that makes use of Spring Boot technology.
 
